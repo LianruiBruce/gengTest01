@@ -39,7 +39,7 @@ body {
   height: 100%;
   text-align: right; /* Align the text to the right side */
 }
-.life-text h2 {
+.life-text h1 {
   font-family: "华文行楷", "KaiTi", "楷体", "Noto Sans SC", cursive; /* Focus on Chinese artistic fonts */
   font-size: 150px; /* Increase font size significantly */
   color: #fff;
